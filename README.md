@@ -1,1 +1,1 @@
-# ConsoleApp2
+A simple adventure game where you have to find and talk to a certain wizard of high importance.
